@@ -1,0 +1,28 @@
+2023:0604	04:26:44	 01f02218-4273-465d-9e10-1475c829c2b8	 Error: this undefined is not allowed
+2023:0604	04:27:04	 a6b48582-81b3-4b57-ad16-048014956104	 Error: this https://www.google.com is not allowed
+2023:0604	04:27:04	 87df5c46-0a27-47f7-910e-1b58971cbbae	 Error: this https://www.google.com is not allowed
+2023:0604	10:54:59	 942a7120-bdd9-4fbf-b1b7-73454d8cb398	 Error: ENOENT: no such file or directory, stat 'C:\Users\follyb\Desktop\folly docs\learn\new backend\express\views\subdir\ndex.html'
+2023:0604	14:11:23	 9e8c7da6-5f09-4a42-8a12-0287a3bbf93a	 TypeError: Cannot read properties of undefined (reading 'id')
+2023:0604	14:12:29	 d640869e-b8ac-46f4-8359-616ee532444b	 TypeError: Cannot read properties of undefined (reading 'id')
+2023:0605	21:40:22	 2ee4b602-3b9d-4029-b33d-56bc47547591	 TypeError: Cannot read properties of undefined (reading 'jwt')
+2023:0605	22:33:40	 c9e86528-6c8e-4972-aca4-d306b3f8eb19	 TypeError: Cannot read properties of undefined (reading 'jwt')
+2023:0606	03:58:25	 f2a0a138-ab67-4cde-9a1f-0f9f90f3e112	 TypeError: Cannot read properties of undefined (reading 'jwt')
+2023:0606	21:59:33	 c57aae6b-2aea-461d-9a4b-bb5390fd0494	 Error: this http://127.0.0.1:5500 is not allowed
+2023:0606	22:01:29	 7d2e1b93-047e-4e1c-a641-630f933f3909	 Error: this http://127.0.0.1:5501 is not allowed
+2023:0606	22:11:53	 9e540dd1-e442-4f2b-92df-9abbae4d28cb	 Error: this http://127.0.0.1:5501 is not allowed
+2023:0608	20:44:31	 1c142e20-3878-4a93-905d-48ad550af332	 Error: this http://127.0.0.1:5500 is not allowed
+2023:0608	20:46:11	 818ee1cf-2315-4875-bb42-388225a4f77d	 Error: this http://127.0.0.1:5500 is not allowed
+2023:0608	20:54:08	 ccd11262-6f00-421f-a892-4a14a3d015f5	 Error: this http://127.0.0.1:5500 is not allowed
+2023:0608	20:56:24	 5cdb7495-bc03-4292-915c-ce695ed8fc3c	 Error: this http://127.0.0.1:5500 is not allowed
+2023:0608	20:56:56	 d87d429c-cfca-45b0-9e38-8b27fa67da9f	 Error: this http://127.0.0.1:5500 is not allowed
+2023:0608	21:04:28	 baf88a76-d684-4f99-937b-3a9f6c116a3b	 Error: this http://127.0.0.1:5501 is not allowed
+2023:0608	21:09:17	 1b330369-ffb8-43c6-98db-7dcbc7dacaaa	 Error: this http://127.0.0.1:5501 is not allowed
+2023:0608	21:09:48	 d8364480-123c-48a3-8208-dffd01b3118c	 Error: this http://127.0.0.1:5501 is not allowed
+2023:0608	21:16:06	 4b2dbc17-3eca-4025-bf9e-02040544f896	 Error: this http://127.0.0.1:5501 is not allowed
+2023:0608	21:17:19	 5d529c92-63ea-4e22-9695-169690df6880	 Error: this http://127.0.0.1:5501 is not allowed
+2023:0608	21:17:28	 9dcc826a-27c2-4c1a-be79-c3de406c6f39	 Error: this http://127.0.0.1:5501 is not allowed
+2023:0608	21:18:30	 3293dd54-df9f-4701-bd1e-3d91b8ad0fb9	 Error: this http://127.0.0.1:5501 is not allowed
+2023:0608	21:20:16	 cd6fd94d-ad5c-486a-9c9a-bdb0aed5e438	 Error: this http://127.0.0.1:5501 is not allowed
+2023:0610	10:46:05	 01318cd6-c6c8-4573-92d0-10088bbe2422	 TypeError: Cannot read properties of undefined (reading 'UserInfo')
+2023:0610	10:54:50	 c3fd9b54-a84b-4661-bcea-c97dac990ac6	 ReferenceError: UserInfo is not defined
+2023:0610	10:58:29	 00b758a8-0d81-45b4-a4f9-9657403a2532	 ReferenceError: UserInfo is not defined

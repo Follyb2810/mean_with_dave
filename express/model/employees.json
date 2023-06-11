@@ -1,0 +1,27 @@
+[
+    {
+    "firstname":"blessing",
+    "lastname":"team lead",
+    "id":1
+    },
+    {
+    "firstname":"mayowa",
+    "lastname":"content development",
+    "id":2
+    },
+    {
+    "firstname":"niyi",
+    "lastname":"designer",
+    "id":3
+    },
+    {
+    "firstname":"folly",
+    "lastname":"dev",
+    "id":4
+    },
+    {
+    "firstname":"debby",
+    "lastname":"lead development",
+    "id":5
+    }
+]

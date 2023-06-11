@@ -1,0 +1,31 @@
+[
+    {
+        "username": "fol2",
+        "password": "$2b$10$X1wV0tcueTnDYvTKz2vg1umL3SZUmp32cDw08RNI2k1fFuz6zUysi"
+    },
+    {
+        "username": "bol2",
+        "password": "$2b$10$PNMIpRr4fiuKFXt3XGeYmOTvkTSHrxsDtNn7WPE0kDNwoK6cwnBVS"
+    },
+    {
+        "username": "folly1",
+        "password": "$2b$10$nVKDIhE./cHY5auT1KY.P.uDl5.fpNSQJbjx3p7QosuxrtZckR/gK"
+    },
+    {
+        "username": "folly",
+        "password": "$2b$10$YhqzGyPR0/xz3X/D75gWrOBkM1/AAj9Z85BkBw0Mg09Rsi8evYa9G",
+        "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImZvbGx5IiwiaWF0IjoxNjg2MDIzNzEzLCJleHAiOjE2ODYxMTAxMTN9.0ebl6wpp4KTlS7XjvojIsAgkKu6OnrWJnppZcpoLkvU"
+    },
+    {
+        "username": "folly2",
+        "password": "$2b$10$nQmOQa7.8I.ubX.EX3ZeQ.zQRoeslzMwS7AJH./HXOja8smazL7MW"
+    },
+    {
+        "username": "folly3",
+        "password": "$2b$10$zdQFrsW7JHjy/Stn85lvq.gEsohSLFrgaqjugraIDeDUY3UpBO1LW"
+    },
+    {
+        "username": "folly4",
+        "password": "$2b$10$IqUX8gitmLdQ69mG5El6zOTgSTbULbdJD157A.N0Tj.PafONTQFU2"
+    }
+]
